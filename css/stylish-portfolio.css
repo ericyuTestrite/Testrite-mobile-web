@@ -162,10 +162,13 @@ hr.small {
     -o-background-size: cover;
 }
 
+
+
 .carousel-inner{
     padding:20px;
+    color: #ffffff;
+    text-shadow: 0 0 5px #144b4a;
 }
-
 /* About */
 
 .about {
